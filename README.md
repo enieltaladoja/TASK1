@@ -1,1 +1,16 @@
-# TASK1
+# TASK1 
+Task 1: Correct the formatting errors in the code below.
+<html>
+<head>
+<title>Formatting</title>
+</head>
+
+<body>
+
+<h1>Learning HTML<h1>
+
+<p>HTML is <b>very important<i> for web development</p>
+
+</body>
+</html>
+
